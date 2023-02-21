@@ -7,7 +7,6 @@ for (char ch = 'a'; ch <= 'z'; ch++)
         {
             continue;
         }
-        Console.Write(ch+"\t");
+        Console.Write(ch);
         
     }
-//Console.WriteLine("Hello, World!");
