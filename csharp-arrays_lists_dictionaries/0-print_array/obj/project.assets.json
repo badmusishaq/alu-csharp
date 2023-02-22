@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\csharp-arrays_lists_dictionaries.csproj",
-      "projectName": "csharp-arrays_lists_dictionaries",
-      "projectPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\csharp-arrays_lists_dictionaries.csproj",
+      "projectUniqueName": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+      "projectName": "0-print_array",
+      "projectPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
       "packagesPath": "C:\\Users\\badmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\obj\\",
+      "outputPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\badmu\\AppData\\Roaming\\NuGet\\NuGet.Config"
