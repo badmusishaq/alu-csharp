@@ -24,19 +24,6 @@ class Array
         for(int i = 0; i < size; i++)
         {
             Console.WriteLine("{0} ", i);
-            // if(size == 0)
-            // {
-            //     Console.WriteLine("\t");
-            // }
-            // else if(size < 0)
-            // {
-            //     Console.WriteLine("Size cannot be negative");
-            //     //return null;
-            // }
-            // else if(size > 0)
-            // {
-            //     Console.WriteLine("{0} ", i);
-            // }
         }
         return newSize;
     }
