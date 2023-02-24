@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿// See https://aka.ms/new-console-template for more information
 int[] newArray;
 
 newArray = Array.CreatePrint(0);
@@ -9,7 +9,11 @@ class Array
 {
     public static int[] CreatePrint(int size)
     {
-        if (size < 0)
+        if(size == 0)
+        {
+            Console.WriteLine("\t");
+        }
+        else if(size < 0)
         {
             Console.WriteLine("Size cannot be negative");
             return null;
@@ -17,18 +21,10 @@ class Array
 
         int[] newSize = new int[size];
 
-        var printString = new StringBuilder();
-        for (int i = 0; i < size; i++)
+        for(int i = 0; i < size; i++)
         {
-            printString.Append(i);
-            if (i != size - 1)
-            {
-                printString.Append(" ");
-            }
-            newSize[i] = i;
+            Console.WriteLine("{0} ", i);
         }
-
-        Console.WriteLine(printString);
         return newSize;
     }
 }
