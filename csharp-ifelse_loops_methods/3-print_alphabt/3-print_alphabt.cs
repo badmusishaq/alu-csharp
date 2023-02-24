@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-for (char ch = 'a'; ch <= 'z'; ch++)
+for (int i = 'a'; i <= 'z'; i++)
 {
-    if (ch != 'q' && ch != 'e')
+    if (i != 'q' && i != 'e')
     {
-        System.Console.Write((char)ch);
+        System.Console.Write((char)i);
     }
 
 }
