@@ -1,10 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-for (int i = 'a'; i <= 'z'; i++)
+namespace _3_print_alphabt
 {
-    if (i != 'q' && i != 'e')
+    class Program
     {
-        System.Console.Write((char)i);
+        static void Main(string[] args)
+        {
+            for (int i = 'a'; i <= 'z'; i++)
+            {
+                if (i != 'q' && i != 'e')
+                {
+                    System.Console.Write((char)i);
+                }
+            }
+        }
     }
-
 }
