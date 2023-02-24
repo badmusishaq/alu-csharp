@@ -1,12 +1,14 @@
+using System;
+
 class Program
 {
     static void Main(string[] args)
     {
         Queue<string> myStrQ = new Queue<string>();
 
-        myStrQ.Enqueue("hello");
-        myStrQ.Enqueue("holberton");
-        myStrQ.Enqueue("school");
+        myStrQ.Enqueue("Hello");
+        myStrQ.Enqueue("Holberton");
+        myStrQ.Enqueue("School");
 
         Console.WriteLine(myStrQ.Concatenate());
 
