@@ -1,0 +1,15 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.exe
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\refint\1-enqueue.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.genruntimeconfig.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\ref\1-enqueue.dll

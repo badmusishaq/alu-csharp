@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+public class Queue<T>
+{
+    public String CheckType(){
+        return typeof(T).ToString();
+    }
+
+}
