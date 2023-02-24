@@ -1,0 +1,13 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.runtimeconfig.dev.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\netcoreapp2.1\1-last_digit.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\netcoreapp2.1\1-last_digit.genruntimeconfig.cache
