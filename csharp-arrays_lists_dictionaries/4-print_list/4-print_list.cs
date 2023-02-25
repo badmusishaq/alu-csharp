@@ -1,28 +1,37 @@
-﻿// See https://aka.ms/new-console-template for more information
-//List<int> newList;
+﻿
+List<int> newList;
 
-//newList = new List<int>();
+        newList = List.CreatePrint(10);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(16);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(0);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(1);
+        Console.WriteLine("List Length: " + newList.Count);       
+        
 
-//int addedNumber = 0;
-
-//addedNumber++;
-CreatePrint(10);
-
-void CreatePrint(int size)
+class List
 {
-    int[] numbersToPrint;
-
-    numbersToPrint.Length = size;
-
-    if(size < 0)
+    public static List<int> CreatePrint(int size)
     {
-        Console.WriteLine("Size cannot be negative");
-        return;
+        if (size < 0)
+        {
+            Console.WriteLine("Size cannot be negative");
+            return null;
+        }
+
+        List<int> myList = new List<int>();
+        for (int i = 0; i < size; i++)
+        {
+            myList.Add(i);
+            Console.Write(i + " ");
+        }
+        Console.WriteLine();
+
+        return myList;
     }
-    for(int i = 0; i < size; i++)
-    {
-        Console.WriteLine(numbersToPrint[i]);
-    }    
 }
-
-Console.WriteLine("List Length: " + CreatePrint(10));
