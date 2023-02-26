@@ -1,0 +1,16 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.exe
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.xml
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\refint\25-matrix_transpose.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.genruntimeconfig.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\ref\25-matrix_transpose.dll

@@ -1,0 +1,16 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.exe
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.xml
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\bin\Debug\net7.0\30-cross_product.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\refint\30-cross_product.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\30-cross_product.genruntimeconfig.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-linear_algebra\30-cross_product\obj\Debug\net7.0\ref\30-cross_product.dll
