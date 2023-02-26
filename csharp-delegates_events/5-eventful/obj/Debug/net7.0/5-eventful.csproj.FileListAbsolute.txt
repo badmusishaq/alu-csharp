@@ -1,0 +1,16 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.exe
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.xml
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\bin\Debug\net7.0\5-eventful.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\refint\5-eventful.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\5-eventful.genruntimeconfig.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-delegates_events\5-eventful\obj\Debug\net7.0\ref\5-eventful.dll

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="T:CalculateHealth">
+            <summary>
+            Player's CalculateHealth Delegate
+            </summary>
+            <param name="amount">Amount for health,</param>
+        </member>
+        <member name="T:Player">
+            <summary>
+            Player class
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            Player constructor
+            </summary>
+            <param name="name">Player's name</param>
+            <param name="maxHp">Player's max hp</param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            Prints the name and current health of the player.
+            </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            Player's take damage
+            </summary>
+            <param name="damage">Amount of damage taken</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            Player's heal
+            </summary>
+            <param name="heal">Amount of heals recieved</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            Define new player's hp depending on occured event.
+            </summary>
+            <param name="newHp">Sets up the new player's hp.</param>
+        </member>
+    </members>
+</doc>

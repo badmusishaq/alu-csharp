@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-eventful</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary>
+            Modifier used with delegates
+            </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary> 
+            Weak default value should be 0.5 
+            </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary> 
+            Base default value should be 1 
+            </summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary> 
+            Strong default value should be 1.5 
+            </summary>
+        </member>
+        <member name="T:CalculateHealth">
+            <summary>
+            Player's CalculateHealth Delegate
+            </summary>
+            <param name="amount">Amount for health,</param>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            Calculate Modifier Delegate
+            </summary>
+            <param name="baseValue">Base value</param>
+            <param name="modifier">Modifier: Weak, Base, Strong</param>
+            <returns>Returns a delegate</returns>
+        </member>
+        <member name="T:Player">
+            <summary>
+            Player class
+            </summary>
+        </member>
+        <member name="E:Player.HPCheck">
+            <summary>
+            EventHanlder for CurrentHPArgs
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single,System.String)">
+            <summary>
+            Player constructor
+            </summary>
+            <param name="name">Player's name</param>
+            <param name="maxHp">Player's max hp</param>
+            <param name="status">Player's status </param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            Prints the name and current health of the player.
+            </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            Player's take damage
+            </summary>
+            <param name="damage">Amount of damage taken</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            Player's heal
+            </summary>
+            <param name="heal">Amount of heals recieved</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            Define new player's hp depending on occured event.
+            </summary>
+            <param name="newHp">Sets up the new player's hp.</param>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>
+            Method used with delegate to apply a BaseValue depending on the modifier
+            </summary>
+            <param name="baseValue">Base value to apply</param>
+            <param name="modifier">Modifier : Weak, Base, Strong</param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.OnCheckStatus(CurrentHPArgs)">
+            <summary>
+            Checks status and perform event depending on the situation.
+            </summary>
+            <param name="e">CurrentHPArgs event</param>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary>
+            Current HP Args
+            </summary>
+        </member>
+        <member name="F:CurrentHPArgs.currentHp">
+            <summary>
+            currentHp cannot be modified
+            </summary>
+            <value>Getter only</value>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>
+            Takes a float newHp and sets it as currentHp‘s value
+            </summary>
+            <param name="newHp">New currentHp's value</param>
+        </member>
+    </members>
+</doc>
