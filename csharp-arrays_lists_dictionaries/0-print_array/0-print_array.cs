@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 int[] newArray;
 
-newArray = Array.CreatePrint(10);
+newArray = Array.CreatePrint(0);
 Console.WriteLine("Array Length: " + newArray.Length);
 Console.WriteLine("----------------");
 
@@ -25,10 +25,16 @@ class Array
         for (int i = 0; i < size; i++)
         {
             newArray[i] = i;
-            Console.Write($"{i} ");
+            if (i < size - 1)
+            {
+                Console.Write($"{i} ");
+            }
+            else
+            {
+                Console.Write($"{i}$"); // Add "$" directly to the last element
+            }
         }
 
-        Console.Write("$"); // Add "$" at the end of every printed array
         Console.WriteLine(); // Move to the next line after printing the elements
 
         return newArray;
