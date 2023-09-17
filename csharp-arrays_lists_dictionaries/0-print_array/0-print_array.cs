@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 int[] newArray;
 
-newArray = Array.CreatePrint(0);
+newArray = Array.CreatePrint(10);
 Console.WriteLine("Array Length: " + newArray.Length);
 Console.WriteLine("----------------");
 
@@ -16,7 +16,7 @@ class Array
         else if(size < 0)
         {
             Console.WriteLine("Size cannot be negative");
-            return null;
+            return new int[0];
         }
 
         int[] newSize = new int[size];
