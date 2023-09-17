@@ -17,7 +17,7 @@ class Array
         else if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
-            return null;
+            return new int[0];
         }
 
         int[] newArray = new int[size];
