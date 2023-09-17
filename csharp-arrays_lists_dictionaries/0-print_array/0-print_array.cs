@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*int[] newArray;
+int[] newArray;
 
 newArray = Array.CreatePrint(10);
 Console.WriteLine("Array Length: " + newArray.Length);
-Console.WriteLine("----------------");*/
+Console.WriteLine("----------------");
 
 class Array
 {
@@ -27,6 +27,8 @@ class Array
             newArray[i] = i;
             Console.Write($"{i} ");
         }
+
+        Console.Write("$"); // Add "$" at the end of every printed array
         Console.WriteLine(); // Move to the next line after printing the elements
 
         return newArray;
