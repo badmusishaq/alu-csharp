@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int[] newArray;
+/*int[] newArray;
 
 newArray = Array.CreatePrint(0);
 Console.WriteLine("Array Length: " + newArray.Length);
-Console.WriteLine("----------------");
+Console.WriteLine("----------------");*/
 
 class Array
 {
