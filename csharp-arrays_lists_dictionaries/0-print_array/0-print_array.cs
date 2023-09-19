@@ -25,10 +25,18 @@ class Array
         for (int i = 0; i < size; i++)
         {
             newArray[i] = i;
-            Console.Write($"{i} ");
+            if(i < size - 1)
+            {
+                Console.Write($"{i} ");
+            }
+            else
+            {
+                Console.Write($"{i}");
+            }
+            
         }
 
-        Console.WriteLine(); // Move to the next line after printing the elements
+        Console.WriteLine();
 
         return newArray;
     }
