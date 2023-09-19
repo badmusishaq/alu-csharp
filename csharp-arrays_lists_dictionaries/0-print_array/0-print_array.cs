@@ -17,7 +17,7 @@ class Array
         else if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
-            return new int[0];
+            return null;
         }
 
         int[] newArray = new int[size];
@@ -28,7 +28,7 @@ class Array
             Console.Write($"{i} ");
         }
 
-        Console.WriteLine(); // Move to the next line after printing the elements
+        //Console.WriteLine(); // Move to the next line after printing the elements
 
         return newArray;
     }
