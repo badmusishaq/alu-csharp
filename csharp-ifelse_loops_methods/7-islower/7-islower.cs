@@ -1,8 +1,8 @@
 ﻿using System;
 
-char c = 'A';
+/*char c = 'A';
 bool isLower = Character.IsLower(c);
-Console.WriteLine(isLower);
+Console.WriteLine(isLower);*/
 
 class Character
 {
