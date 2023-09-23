@@ -1,9 +1,5 @@
 ﻿using System;
 
-/*char c = 'A';
-bool isLower = Character.IsLower(c);
-Console.WriteLine(isLower);*/
-
 class Character
 {
 	public static bool IsLower(char c)
