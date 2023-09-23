@@ -10,7 +10,12 @@ namespace _6_print_comb2
             {
                 for (int j = i + 1; j < 10; j++)
                 {
-                    Console.Write(i + "" + j + ", ");
+                    Console.Write($"{i}{j}");
+
+                    if (i != 8 || j != 9) // Check if it's not the last number pair
+                    {
+                        Console.Write(", ");
+                    }
                 }
             }
 
