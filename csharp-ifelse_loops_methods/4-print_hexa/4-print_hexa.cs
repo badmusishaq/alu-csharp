@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-for(int n = 0; n <= 98; n++)
+for (int i = 0; i <= 98; i++)
 {
-    string hex = n.ToString("x");
-    Console.Write(n + " = 0x" + hex);
+    Console.Write($"{i} = 0x{i:X}\n");
 }
