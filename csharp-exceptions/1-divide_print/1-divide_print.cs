@@ -5,7 +5,7 @@ class Int
     public static void divide(int a, int b)
     {
         int res = 0;
-        try
+        /*try
         {
             res = a / b;
         }
@@ -16,7 +16,7 @@ class Int
         finally
         {
             Console.WriteLine("{0} / {1} = {2}", a, b, res);
-        }
+        }*/
     }
 
 }
