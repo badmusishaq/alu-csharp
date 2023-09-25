@@ -6,7 +6,7 @@ class Array
     {
         if (array == null)
         {
-            Console.WriteLine("The array is null.");
+            Console.WriteLine();
             return;
         }
 
@@ -15,5 +15,4 @@ class Array
             Console.WriteLine(array[i]);
         }
     }
-}
 }
