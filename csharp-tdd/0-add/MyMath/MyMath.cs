@@ -1,5 +1,7 @@
 ﻿using System;
+using MyMath;
 
+Operations.Add(3, 2);
 namespace MyMath
 {
     /// <summary>Represents Mathemathics operations class.</summary>
