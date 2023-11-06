@@ -3,3 +3,14 @@ C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp
 C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfoInputs.cache
 C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfo.cs
 C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.csproj.CoreCompileInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.exe
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.xml
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.deps.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.runtimeconfig.json
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\refint\3-type_get.dll
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.pdb
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.genruntimeconfig.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\ref\3-type_get.dll
