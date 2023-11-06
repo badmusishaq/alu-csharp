@@ -2,9 +2,15 @@
 using System.Collections.Generic;
 using System.Reflection;
 
+/// <summary>Represents the class Obj.</summary>
 class Obj
 {
-    public static void Print(object myObj){
+    /// <summary>
+    /// prints the names of the available properties and methods of an object.
+    /// </summary>
+    /// <param name="myObj">Object from where to get informations.</param>
+    public static void Print(object myObj)
+    {
         string cType = myObj.GetType().Name;
         Type t = myObj.GetType();
         Console.WriteLine("{0} Properties:", cType);
