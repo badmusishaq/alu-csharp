@@ -1,0 +1,5 @@
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.csproj.AssemblyReference.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfoInputs.cache
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfo.cs
+C:\Users\badmu\Documents\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.csproj.CoreCompileInputs.cache
