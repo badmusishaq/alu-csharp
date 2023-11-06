@@ -8,10 +8,20 @@ class Obj
     /// <summary>
     /// prints the names of the available properties and methods of an object.
     /// </summary>
-    /// <param name="derivedType">Object from where to get informations.</param>
-    /// <param name="baseType">Object type</param>
-    public static bool IsOnlyASubclass(Type derivedType, Type baseType)
+    /// <param name="myObj">Object from where to get informations.</param>
+    public static void Print(object myObj)
     {
-        return derivedType.IsSubclassOf(baseType);
+        string cType = myObj.GetType().Name;
+        Type t = myObj.GetType();
+        Console.WriteLine("{0} Properties:", cType);
+        foreach (var p in t.GetProperties())
+        {
+            Console.WriteLine(p.Name);
+        }
+        Console.WriteLine("{0} Methods:", cType);
+        foreach (var m in t.GetMethods())
+        {
+            Console.WriteLine(m.Name);
+        }
     }
 }
