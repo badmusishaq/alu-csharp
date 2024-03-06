@@ -29,6 +29,25 @@ public delegate void CalculateHealth(float amount);
 /// <returns>Returns a delegate</returns>
 public delegate float CalculateModifier(float baseValue, Modifier modifier);
 
+/// <summary>
+/// Current HP Args
+/// </summary>
+public class CurrentHPArgs : EventArgs
+{
+    /// <summary>
+    /// currentHp cannot be modified
+    /// </summary>
+    /// <value>Getter only</value>
+    public readonly float currentHp;
+    /// <summary>
+    /// Takes a float newHp and sets it as currentHp‘s value
+    /// </summary>
+    /// <param name="newHp">New currentHp's value</param>
+    public CurrentHPArgs(float newHp)
+    {
+        this.currentHp = newHp;
+    }
+}
 
 /// <summary>
 /// Player class
@@ -54,8 +73,7 @@ public class Player
     /// <param name="maxHp">Player's max hp</param>
     /// <param name="status">Player's status </param>
     public Player(string name = "Player", float maxHp = 100f, string status = "Undefined")
-    {  
-        
+    {
         this.name = name;
         if (maxHp <= 0)
         {
@@ -70,7 +88,7 @@ public class Player
         }
         HPCheck += CheckStatus;
     }
-    
+
     /// <summary>
     /// Prints the name and current health of the player.
     /// </summary>
@@ -95,7 +113,7 @@ public class Player
     /// <summary>
     /// Player's heal
     /// </summary>
-    /// <param name="heal">Amount of heals recieved</param>
+    /// <param name="heal">Amount of heals received</param>
     public void HealDamage(float heal)
     {
         if (heal < 0)
@@ -107,7 +125,7 @@ public class Player
         this.ValidateHP(this.hp + heal);
     }
     /// <summary>
-    /// Define new player's hp depending on occured event.
+    /// Define new player's hp depending on occurred event.
     /// </summary>
     /// <param name="newHp">Sets up the new player's hp.</param>
     public void ValidateHP(float newHp)
@@ -124,7 +142,7 @@ public class Player
         {
             this.hp = newHp;
         }
-        CheckStatus(HPCheck, new CurrentHPArgs(this.hp));
+        HPCheck?.Invoke(this, new CurrentHPArgs(this.hp));
     }
     /// <summary>
     /// Method used with delegate to apply a BaseValue depending on the modifier
@@ -156,32 +174,12 @@ public class Player
             status = $"{name} is in perfect health!";
         else if (e.currentHp >= (this.maxHp * 0.5) && e.currentHp < this.maxHp)
             status = $"{name} is doing well!";
-        else if (e.currentHp >= (this.maxHp * 0.25) && e.currentHp < this.maxHp)
+        else if (e.currentHp >= (this.maxHp * 0.25) && e.currentHp < (this.maxHp * 0.5))
             status = $"{name} isn't doing too great...";
         else if (e.currentHp > 0 && e.currentHp < (this.maxHp * 0.25))
             status = $"{name} needs help!";
-        else if (e.currentHp <= 0)
+        else if (e.currentHp == 0)
             status = $"{name} is knocked out!";
         Console.WriteLine(status);
-    }
-}
-
-/// <summary>
-/// Current HP Args
-/// </summary>
-public class CurrentHPArgs : EventArgs
-{
-    /// <summary>
-    /// currentHp cannot be modified
-    /// </summary>
-    /// <value>Getter only</value>
-    public readonly float currentHp;
-    /// <summary>
-    /// Takes a float newHp and sets it as currentHp‘s value
-    /// </summary>
-    /// <param name="newHp">New currentHp's value</param>
-    public CurrentHPArgs(float newHp)
-    {
-        this.currentHp = newHp;
     }
 }
