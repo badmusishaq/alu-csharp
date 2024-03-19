@@ -14,13 +14,11 @@ class Obj
         Type objectType = myObj.GetType();
 
         Console.WriteLine($"{objectType.Name} Properties:");
-        foreach (PropertyInfo prop in objectType.GetProperties())
-        {
-            Console.WriteLine(prop.Name);
-        }
+        Console.WriteLine($"{objectType.Name} Methods:");
 
-        Console.WriteLine($"\n{objectType.Name} Methods:");
-        foreach (MethodInfo method in objectType.GetMethods())
+        // Print methods
+        MethodInfo[] methods = objectType.GetMethods();
+        foreach (MethodInfo method in methods)
         {
             Console.WriteLine(method.Name);
         }
