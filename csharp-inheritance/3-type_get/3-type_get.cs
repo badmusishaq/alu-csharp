@@ -11,17 +11,18 @@ class Obj
     /// <param name="myObj">Object from where to get informations.</param>
     public static void Print(object myObj)
     {
-        string cType = myObj.GetType().Name;
-        Type t = myObj.GetType();
-        Console.WriteLine("{0} Properties:", cType);
-        foreach (var p in t.GetProperties())
+        Type objectType = myObj.GetType();
+
+        Console.WriteLine($"{objectType.Name} Properties:");
+        foreach (PropertyInfo prop in objectType.GetProperties())
         {
-            Console.WriteLine(p.Name);
+            Console.WriteLine(prop.Name);
         }
-        Console.WriteLine("{0} Methods:", cType);
-        foreach (var m in t.GetMethods())
+
+        Console.WriteLine($"\n{objectType.Name} Methods:");
+        foreach (MethodInfo method in objectType.GetMethods())
         {
-            Console.WriteLine(m.Name);
+            Console.WriteLine(method.Name);
         }
     }
 }
