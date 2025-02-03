@@ -1,0 +1,15 @@
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\net7.0\100-jagged_array.exe
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\net7.0\100-jagged_array.deps.json
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\net7.0\100-jagged_array.runtimeconfig.json
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\net7.0\100-jagged_array.dll
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\net7.0\100-jagged_array.pdb
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.AssemblyInfoInputs.cache
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.AssemblyInfo.cs
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.csproj.CoreCompileInputs.cache
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.sourcelink.json
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.dll
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\refint\100-jagged_array.dll
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.pdb
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\100-jagged_array.genruntimeconfig.cache
+D:\Documents\FromCDrive\Unity_Projects\Submit\ALU_Project_Testing\C#\alu-csharp\csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\net7.0\ref\100-jagged_array.dll

@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\badmu\\.nuget\\packages\\": {}
+    "C:\\Users\\badmu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\100-jagged_array.csproj",
+      "projectUniqueName": "D:\\Documents\\FromCDrive\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\100-jagged_array.csproj",
       "projectName": "100-jagged_array",
-      "projectPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\100-jagged_array.csproj",
+      "projectPath": "D:\\Documents\\FromCDrive\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\100-jagged_array.csproj",
       "packagesPath": "C:\\Users\\badmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\obj\\",
+      "outputPath": "D:\\Documents\\FromCDrive\\Unity_Projects\\Submit\\ALU_Project_Testing\\C#\\alu-csharp\\csharp-arrays_lists_dictionaries\\100-jagged_array\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\badmu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\badmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net7.0": {
@@ -59,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
