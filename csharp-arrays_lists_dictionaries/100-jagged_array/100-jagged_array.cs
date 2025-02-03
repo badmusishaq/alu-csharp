@@ -18,7 +18,7 @@ class Program
             {
                 Console.Write(jaggedArray[i][j] + " ");
             }
-            Console.WriteLine("$");
+            Console.WriteLine();
         }
     }
 }
