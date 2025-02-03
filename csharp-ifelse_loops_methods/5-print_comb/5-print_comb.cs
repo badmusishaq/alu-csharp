@@ -1,12 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("00");
-for(int i = 1; i <= 99; i++)
+﻿for (int i = 0; i < 100; i++)
 {
     string separator = ", ";
 
-    if (i == 99)
-    {
-        separator = "\n";
-    } 
-    Console.Write("{0}", i.ToString("00") + separator);
+    if (i == 99) separator = "\n";
+    System.Console.Write($"{i:d2}{separator}");
+
 }
