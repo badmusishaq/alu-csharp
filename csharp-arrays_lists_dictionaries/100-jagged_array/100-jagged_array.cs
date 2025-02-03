@@ -13,12 +13,12 @@ class Program
 
         for (int i = 0; i < jaggedArray.Length; i++)
         {
-            Console.Write("Array {0}: ", i + " ");
+            Console.Write("Array {0}: ", i);
             for (int j = 0; j < jaggedArray[i].Length; j++)
             {
                 Console.Write(jaggedArray[i][j] + " ");
             }
-            Console.WriteLine();
+            Console.WriteLine("$");
         }
     }
 }
