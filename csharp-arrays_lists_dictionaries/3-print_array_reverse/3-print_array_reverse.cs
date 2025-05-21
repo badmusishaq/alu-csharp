@@ -6,14 +6,16 @@ class Array
     public static void Reverse(int[] array)
     {
         var output = new StringBuilder();
-        if (array != null)
+        for (int i = array.Length - 1; i >= 0; i--)
         {
-            for (int i = array.Length - 1; i >= 0; i--)
+            if (array == null)
             {
-                output.Append(array[i]);
-                if (i != 0)
-                    output.Append(" ");
+                Console.WriteLine(array[i]);
+                return;
             }
+            output.Append(array[i]);
+            if (i != 0)
+                output.Append(" ");
         }
         Console.WriteLine(output);
     }
